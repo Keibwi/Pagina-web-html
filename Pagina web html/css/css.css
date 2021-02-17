@@ -1,0 +1,70 @@
+.titulo{
+    color: red;
+    font-size: 60px;
+    font-family:serif;
+    text-align:center;
+}
+
+.img_anime{
+    width: 300px;
+    height: 300;
+    border: 5px solid black;
+    
+}
+
+.Nombre{
+    color: aqua;
+    font-size: 50px;
+    font-family: cursive;
+    text-align: left;    
+}
+
+.titulo2{
+    color: blueviolet;
+    font-size: 50px;
+    font-family: monospace;
+    text-align: center;
+}
+
+.titulo3{
+    color: darkblue;
+    font-size: 40px;
+    font-family: monospace;
+    text-align: center;   
+}
+
+.titulo4{
+    color: deeppink;
+    font-size: 30px;
+    font-family: monospace;
+    text-align: center 
+}
+
+.titulo5{
+    color: darkgreen;
+    font-size: 20px;
+    font-family: monospace;
+    text-align: center 
+}
+
+.parrafo{
+    color: palevioletred;
+    font-size: 30px;
+    font-family: inherit;
+    text-align: left    
+}
+
+.parrafo2{
+    color: palevioletred;
+    font-size: 30px;
+    font-family: inherit;
+    text-align: left
+}
+.planetas{
+    color: chartreuse;
+    font-size:25px; 
+}
+.meses{
+    color: darkgoldenrod;
+    font-size: 25px;
+}
